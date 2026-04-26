@@ -27,5 +27,5 @@ This project is a Final Grade Calculator built with C++ in VS Code. The program 
 (VIDEO)
 
 ## Contact
-Here is how you can reach me: LINKEDIN
+Here is how you can reach me: [LinkedIn](https://www.linkedin.com/in/victor-gunderson-1a47aa3aa/)
 
