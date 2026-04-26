@@ -1,5 +1,7 @@
 # Final Grade Calculator 
 
+![](https://github.com/VictorGunderson/Final-Grade-Calculator-/blob/main/finalgradcalcimg.jpeg)
+
 This project is a Final Grade Calculator built with C++ in VS Code. The program provides input prompts for the user to enter their current grade, final exam weight, and their expected final exam score. With this information, the program then calculates your anticipated final grade with an output to the terminal right after. The text based system in the terminal is user friendly so there should be little to no difficulty navigating through. I built this project to introduce me to C++ and develop something I use frequently at the end of each school year to calculate my final grade. 
 
 
@@ -21,10 +23,6 @@ This project is a Final Grade Calculator built with C++ in VS Code. The program 
 ## Future Planned Updates:
 - Make a graphical interface 
 - TBA…
-
-## DEMO VIDEO
-
-(VIDEO)
 
 ## Contact
 Here is how you can reach me: [LinkedIn](https://www.linkedin.com/in/victor-gunderson-1a47aa3aa/)
